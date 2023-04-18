@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.text{
+  border: 2px solid black;
+  width: 400px;
+  margin-top: 10px;
+}
+.form{
+  height: 700px;
+  text-align: left;
+}
+.label{
+  font-size: 1.2rem;
+}
